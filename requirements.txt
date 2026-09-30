@@ -1,0 +1,5 @@
+streamlit>=1.32
+pandas>=2.0
+openpyxl>=3.1
+pytesseract>=0.3.10
+Pillow>=10.0
